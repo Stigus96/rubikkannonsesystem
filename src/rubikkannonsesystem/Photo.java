@@ -8,7 +8,7 @@ package rubikkannonsesystem;
 /**
  *
  * @author Stigus
- */
+ * Represents a photo or an image of an item for sale */
 public class Photo {
     
 }

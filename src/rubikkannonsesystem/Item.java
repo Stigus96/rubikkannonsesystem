@@ -8,7 +8,7 @@ package rubikkannonsesystem;
 /**
  *
  * @author Stigus
- */
+ * An item to be sold in the Fant webstore */
 public class Item {
     
 }

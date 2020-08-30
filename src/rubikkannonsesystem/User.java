@@ -8,7 +8,7 @@ package rubikkannonsesystem;
 /**
  *
  * @author Stigus
- */
+ * Represents an user in the Fant webstore */
 public class User {
     
 }
