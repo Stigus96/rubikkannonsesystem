@@ -5,11 +5,15 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>rubikkannonsesystem</name>
             <source-roots>
+                <root id="src.Dependencies.dir"/>
                 <root id="src.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
             </test-roots>
         </data>
+        <libraries xmlns="http://www.netbeans.org/ns/ant-project-libraries/1">
+            <definitions>E:\OneDrive\NTNU\mobile og distribuerte applikasjoner\mikaelntnu-chatserver-3a40c96f4a46\nblibraries.properties</definitions>
+        </libraries>
     </configuration>
 </project>
